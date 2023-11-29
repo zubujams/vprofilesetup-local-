@@ -1,3 +1,3 @@
 # vprofilesetup-local-
 
-## Setting up a multi tier web application locally
+## Setting up a Multi Tier Web Application locally
